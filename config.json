@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfncrypt",
+        "uuid": 10989958,
+        "checksum": "hknmit"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
